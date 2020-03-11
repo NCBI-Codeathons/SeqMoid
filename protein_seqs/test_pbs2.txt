@@ -1,0 +1,232 @@
+BLASTP 2.7.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: protein_seqs/pbs2.fa
+           92 sequences; 61,456 total letters
+
+
+
+Query= DAA08673.2 TPA: mitogen-activated protein kinase kinase PBS2
+[Saccharomyces cerevisiae S288C]
+
+Length=668
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AJR58098.1 Pbs2p [Saccharomyces cerevisiae YJM996]                  1380    0.0
+  AHY78881.1 Pbs2p [Saccharomyces cerevisiae YJM993]                  1380    0.0
+  AJR57770.1 Pbs2p [Saccharomyces cerevisiae YJM990]                  1380    0.0
+  AJR57442.1 Pbs2p [Saccharomyces cerevisiae YJM987]                  1380    0.0
+  AJR57113.1 Pbs2p [Saccharomyces cerevisiae YJM984]                  1380    0.0
+  AJR56785.1 Pbs2p [Saccharomyces cerevisiae YJM981]                  1380    0.0
+  AJR56458.1 Pbs2p [Saccharomyces cerevisiae YJM978]                  1380    0.0
+  AJR56133.1 Pbs2p [Saccharomyces cerevisiae YJM975]                  1380    0.0
+  AJR55804.1 Pbs2p [Saccharomyces cerevisiae YJM972]                  1380    0.0
+  AJR55476.1 Pbs2p [Saccharomyces cerevisiae YJM969]                  1380    0.0
+  AJR55166.1 Pbs2p [Saccharomyces cerevisiae YJM693]                  1380    0.0
+  AJR54842.1 Pbs2p [Saccharomyces cerevisiae YJM689]                  1380    0.0
+  AJR54512.1 Pbs2p [Saccharomyces cerevisiae YJM683]                  1380    0.0
+  AJR54178.1 Pbs2p [Saccharomyces cerevisiae YJM682]                  1380    0.0
+  AJR64876.1 Pbs2p [Saccharomyces cerevisiae YJM555]                  1380    0.0
+  AJR64608.1 Pbs2p [Saccharomyces cerevisiae YJM554]                  1380    0.0
+  AJR64310.1 Pbs2p [Saccharomyces cerevisiae YJM541]                  1380    0.0
+  AJR63661.1 Pbs2p [Saccharomyces cerevisiae YJM456]                  1380    0.0
+  AJR63330.1 Pbs2p [Saccharomyces cerevisiae YJM453]                  1380    0.0
+  AJR62681.1 Pbs2p [Saccharomyces cerevisiae YJM450]                  1380    0.0
+  AJR62021.1 Pbs2p [Saccharomyces cerevisiae YJM326]                  1380    0.0
+  AJR61693.1 Pbs2p [Saccharomyces cerevisiae YJM320]                  1380    0.0
+  AJR61370.1 Pbs2p [Saccharomyces cerevisiae YJM271]                  1380    0.0
+  AJR60390.1 Pbs2p [Saccharomyces cerevisiae YJM244]                  1380    0.0
+  AJR59733.1 Pbs2p [Saccharomyces cerevisiae YJM193]                  1380    0.0
+  AJR59403.1 Pbs2p [Saccharomyces cerevisiae YJM189]                  1380    0.0
+  AJR74962.1 Pbs2p [Saccharomyces cerevisiae YJM1574]                 1380    0.0
+  AJR74296.1 Pbs2p [Saccharomyces cerevisiae YJM1549]                 1380    0.0
+  AJR73979.1 Pbs2p [Saccharomyces cerevisiae YJM1527]                 1380    0.0
+  AJR73666.1 Pbs2p [Saccharomyces cerevisiae YJM1526]                 1380    0.0
+  AJR73004.1 Pbs2p [Saccharomyces cerevisiae YJM1478]                 1380    0.0
+  AJR72674.1 Pbs2p [Saccharomyces cerevisiae YJM1477]                 1380    0.0
+  AJR72348.1 Pbs2p [Saccharomyces cerevisiae YJM1463]                 1380    0.0
+  AJR71691.1 Pbs2p [Saccharomyces cerevisiae YJM1450]                 1380    0.0
+  AJR69727.1 Pbs2p [Saccharomyces cerevisiae YJM1433]                 1380    0.0
+  AJR68759.1 Pbs2p [Saccharomyces cerevisiae YJM1417]                 1380    0.0
+  AJR68434.1 Pbs2p [Saccharomyces cerevisiae YJM1415]                 1380    0.0
+  AJV43535.1 Pbs2p [Saccharomyces cerevisiae YJM1386]                 1380    0.0
+  AJV43202.1 Pbs2p [Saccharomyces cerevisiae YJM1385]                 1380    0.0
+  AJV42542.1 Pbs2p [Saccharomyces cerevisiae YJM1381]                 1380    0.0
+  AJV42216.1 Pbs2p [Saccharomyces cerevisiae YJM1356]                 1380    0.0
+  AJV41241.1 Pbs2p [Saccharomyces cerevisiae YJM1341]                 1380    0.0
+  AJV40913.1 Pbs2p [Saccharomyces cerevisiae YJM1338]                 1380    0.0
+  AJV40259.1 Pbs2p [Saccharomyces cerevisiae YJM1332]                 1380    0.0
+  AJV39942.1 Pbs2p [Saccharomyces cerevisiae YJM1326]                 1380    0.0
+  AJV39617.1 Pbs2p [Saccharomyces cerevisiae YJM1311]                 1380    0.0
+  AJV39287.1 Pbs2p [Saccharomyces cerevisiae YJM1307]                 1380    0.0
+  AJR67789.1 Pbs2p [Saccharomyces cerevisiae YJM1250]                 1380    0.0
+  AJR67165.1 Pbs2p [Saccharomyces cerevisiae YJM1244]                 1380    0.0
+  AJR66837.1 Pbs2p [Saccharomyces cerevisiae YJM1242]                 1380    0.0
+  AJR65535.1 Pbs2p [Saccharomyces cerevisiae YJM1190]                 1380    0.0
+  AJR59078.1 Pbs2p [Saccharomyces cerevisiae YJM1133]                 1380    0.0
+  AJR58750.1 Pbs2p [Saccharomyces cerevisiae YJM1129]                 1380    0.0
+  AJR61043.1 Pbs2p [Saccharomyces cerevisiae YJM270]                  1379    0.0
+  AJR75291.1 Pbs2p [Saccharomyces cerevisiae YJM1592]                 1379    0.0
+  AJR74627.1 Pbs2p [Saccharomyces cerevisiae YJM1573]                 1379    0.0
+  AJR73335.1 Pbs2p [Saccharomyces cerevisiae YJM1479]                 1379    0.0
+  AJR72019.1 Pbs2p [Saccharomyces cerevisiae YJM1460]                 1379    0.0
+  AJR70062.1 Pbs2p [Saccharomyces cerevisiae YJM1434]                 1379    0.0
+  AJR69399.1 Pbs2p [Saccharomyces cerevisiae YJM1419]                 1379    0.0
+  AJV45781.1 Pbs2p [Saccharomyces cerevisiae YJM1402]                 1379    0.0
+  AJV45164.1 Pbs2p [Saccharomyces cerevisiae YJM1400]                 1379    0.0
+  AJV44511.1 Pbs2p [Saccharomyces cerevisiae YJM1389]                 1379    0.0
+  AJV41890.1 Pbs2p [Saccharomyces cerevisiae YJM1355]                 1379    0.0
+  AJV41562.1 Pbs2p [Saccharomyces cerevisiae YJM1342]                 1379    0.0
+  AJV38640.1 Pbs2p [Saccharomyces cerevisiae YJM1273]                 1379    0.0
+  AJR60718.1 Pbs2p [Saccharomyces cerevisiae YJM248]                  1377    0.0
+  AJV43854.1 Pbs2p [Saccharomyces cerevisiae YJM1387]                 1377    0.0
+  AJV40584.1 Pbs2p [Saccharomyces cerevisiae YJM1336]                 1377    0.0
+  AJR53851.1 Pbs2p [Saccharomyces cerevisiae YJM681]                  1377    0.0
+  AJR63992.1 Pbs2p [Saccharomyces cerevisiae YJM470]                  1377    0.0
+  AJR63005.1 Pbs2p [Saccharomyces cerevisiae YJM451]                  1377    0.0
+  AJR62354.1 Pbs2p [Saccharomyces cerevisiae YJM428]                  1377    0.0
+  AJR75622.1 Pbs2p [Saccharomyces cerevisiae YJM1615]                 1377    0.0
+  AJR58425.1 Pbs2p [Saccharomyces cerevisiae YJM1083]                 1377    0.0
+  AJR65204.1 Pbs2p [Saccharomyces cerevisiae YJM627]                  1376    0.0
+  AJR70390.1 Pbs2p [Saccharomyces cerevisiae YJM1439]                 1376    0.0
+  AJV44182.1 Pbs2p [Saccharomyces cerevisiae YJM1388]                 1376    0.0
+  AJR67496.1 Pbs2p [Saccharomyces cerevisiae YJM1248]                 1376    0.0
+  AJR60058.1 Pbs2p [Saccharomyces cerevisiae YJM195]                  1375    0.0
+  AJR71378.1 Pbs2p [Saccharomyces cerevisiae YJM1447]                 1375    0.0
+  AJR70726.1 Pbs2p [Saccharomyces cerevisiae YJM1443]                 1375    0.0
+  AJV45499.1 Pbs2p [Saccharomyces cerevisiae YJM1401]                 1375    0.0
+  AJV44838.1 Pbs2p [Saccharomyces cerevisiae YJM1399]                 1375    0.0
+  AJV38968.1 Pbs2p [Saccharomyces cerevisiae YJM1304]                 1375    0.0
+  AJR68117.1 Pbs2p [Saccharomyces cerevisiae YJM1252]                 1375    0.0
+  AJR66189.1 Pbs2p [Saccharomyces cerevisiae YJM1202]                 1375    0.0
+  AJR65862.1 Pbs2p [Saccharomyces cerevisiae YJM1199]                 1375    0.0
+  AJP39582.1 Pbs2p [Saccharomyces cerevisiae YJM1078]                 1375    0.0
+  AJV42873.1 Pbs2p [Saccharomyces cerevisiae YJM1383]                 1374    0.0
+  AJR66511.1 Pbs2p [Saccharomyces cerevisiae YJM1208]                 1374    0.0
+  AJR71053.1 Pbs2p [Saccharomyces cerevisiae YJM1444]                 1373    0.0
+
+
+> AJR58098.1 Pbs2p [Saccharomyces cerevisiae YJM996]
+Length=668
+
+ Score = 1380 bits (3571),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 668/668 (100%), Positives = 668/668 (100%), Gaps = 0/668 (0%)
+
+Query  1    KKKKKKKKKKKKKKKKKKKKKKKQTGSDNGSAVKRTSSTSSHYNNINADLHARVKAFQEQ  60
+            KKKKKKKKKKKKKKKKKKKKKKKQTGSDNGSAVKRTSSTSSHYNNINADLHARVKAFQEQ
+Sbjct  1    MEDKFANLSLHEKTGKSSIQLNEQTGSDNGSAVKRTSSTSSHYNNINADLHARVKAFQEQ  60
+
+Query  61   RALKRSASVGSNQSEQDKGSSQSPKHIQQIVNKPLPPLPVAGSSKVSQRMSSQVVQASSK  120
+            RALKRSASVGSNQSEQDKGSSQSPKHIQQIVNKPLPPLPVAGSSKVSQRMSSQVVQASSK
+Sbjct  61   RALKRSASVGSNQSEQDKGSSQSPKHIQQIVNKPLPPLPVAGSSKVSQRMSSQVVQASSK  120
+
+Query  121  STLKNVLDNQETQNITDVNINIDTTKITATTIGVNTGLPATDITPSVSNTASATHKAQLL  180
+            STLKNVLDNQETQNITDVNINIDTTKITATTIGVNTGLPATDITPSVSNTASATHKAQLL
+Sbjct  121  STLKNVLDNQETQNITDVNINIDTTKITATTIGVNTGLPATDITPSVSNTASATHKAQLL  180
+
+Query  181  NPNRRAPRRPLSTQHPTRPNVAPHKAPAIINTPKQSLSARRGLKLPPGGMSLKMPTKTAQ  240
+            NPNRRAPRRPLSTQHPTRPNVAPHKAPAIINTPKQSLSARRGLKLPPGGMSLKMPTKTAQ
+Sbjct  181  NPNRRAPRRPLSTQHPTRPNVAPHKAPAIINTPKQSLSARRGLKLPPGGMSLKMPTKTAQ  240
+
+Query  241  QPQQFAPSPSNKKHIETLSNSKVVEGKRSNPGSLINGVQSTSTSSSTEGPHDTVGTTPRT  300
+            QPQQFAPSPSNKKHIETLSNSKVVEGKRSNPGSLINGVQSTSTSSSTEGPHDTVGTTPRT
+Sbjct  241  QPQQFAPSPSNKKHIETLSNSKVVEGKRSNPGSLINGVQSTSTSSSTEGPHDTVGTTPRT  300
+
+Query  301  GNSNNSSNSGSSGGGGLFANFSKYVDIKSGSLNFAGKLSLSSKGIDFSNGSSSRITLDEL  360
+            GNSNNSSNSGSSGGGGLFANFSKYVDIKSGSLNFAGKLSLSSKGIDFSNGSSSRITLDEL
+Sbjct  301  GNSNNSSNSGSSGGGGLFANFSKYVDIKSGSLNFAGKLSLSSKGIDFSNGSSSRITLDEL  360
+
+Query  361  EFLDELGHGNYGNVSKVLHKPTNVIMATKEVRLELDEAKFRQILMELEVLHKCNSPYIVD  420
+            EFLDELGHGNYGNVSKVLHKPTNVIMATKEVRLELDEAKFRQILMELEVLHKCNSPYIVD
+Sbjct  361  EFLDELGHGNYGNVSKVLHKPTNVIMATKEVRLELDEAKFRQILMELEVLHKCNSPYIVD  420
+
+Query  421  FYGAFFIEGAVYMCMEYMDGGSLDKIYDESSEIGGIDEPQLAFIANAVIHGLKELKEQHN  480
+            FYGAFFIEGAVYMCMEYMDGGSLDKIYDESSEIGGIDEPQLAFIANAVIHGLKELKEQHN
+Sbjct  421  FYGAFFIEGAVYMCMEYMDGGSLDKIYDESSEIGGIDEPQLAFIANAVIHGLKELKEQHN  480
+
+Query  481  IIHRDVKPTNILCSANQGTVKLCDFGVSGNLVASLAKTNIGCQSYMAPERIKSLNPDRAT  540
+            IIHRDVKPTNILCSANQGTVKLCDFGVSGNLVASLAKTNIGCQSYMAPERIKSLNPDRAT
+Sbjct  481  IIHRDVKPTNILCSANQGTVKLCDFGVSGNLVASLAKTNIGCQSYMAPERIKSLNPDRAT  540
+
+Query  541  YTVQSDIWSLGLSILEMALGRYPYPPETYDNIFSQLSAIVDGPPPRLPSDKFSSDAQDFV  600
+            YTVQSDIWSLGLSILEMALGRYPYPPETYDNIFSQLSAIVDGPPPRLPSDKFSSDAQDFV
+Sbjct  541  YTVQSDIWSLGLSILEMALGRYPYPPETYDNIFSQLSAIVDGPPPRLPSDKFSSDAQDFV  600
+
+Query  601  SLCLQKIPERRPTYAALTEHPWLVKYRNQDVHMSEYITERLERRNKILRERGENGLSKNV  660
+            SLCLQKIPERRPTYAALTEHPWLVKYRNQDVHMSEYITERLERRNKILRERGENGLSKNV
+Sbjct  601  SLCLQKIPERRPTYAALTEHPWLVKYRNQDVHMSEYITERLERRNKILRERGENGLSKNV  660
+
+Query  661  PALHMGGL  668
+            PALHMGGL
+Sbjct  661  PALHMGGL  668
+
+
+> AHY78881.1 Pbs2p [Saccharomyces cerevisiae YJM993]
+Length=668
+
+ Score = 1380 bits (3571),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 668/668 (100%), Positives = 668/668 (100%), Gaps = 0/668 (0%)
+
+Query  1    MEDKFANLSLHEKTGKSSIQLNEQTGSDNGSAVKRTSSTSSHYNNINADLHARVKAFQEQ  60
+            MEDKFANLSLHEKTGKSSIQLNEQTGSDNGSAVKRTSSTSSHYNNINADLHARVKAFQEQ
+Sbjct  1    MEDKFANLSLHEKTGKSSIQLNEQTGSDNGSAVKRTSSTSSHYNNINADLHARVKAFQEQ  60
+
+Query  61   RALKRSASVGSNQSEQDKGSSQSPKHIQQIVNKPLPPLPVAGSSKVSQRMSSQVVQASSK  120
+            RALKRSASVGSNQSEQDKGSSQSPKHIQQIVNKPLPPLPVAGSSKVSQRMSSQVVQASSK
+Sbjct  61   RALKRSASVGSNQSEQDKGSSQSPKHIQQIVNKPLPPLPVAGSSKVSQRMSSQVVQASSK  120
+
+Query  121  STLKNVLDNQETQNITDVNINIDTTKITATTIGVNTGLPATDITPSVSNTASATHKAQLL  180
+            STLKNVLDNQETQNITDVNINIDTTKITATTIGVNTGLPATDITPSVSNTASATHKAQLL
+Sbjct  121  STLKNVLDNQETQNITDVNINIDTTKITATTIGVNTGLPATDITPSVSNTASATHKAQLL  180
+
+Query  181  NPNRRAPRRPLSTQHPTRPNVAPHKAPAIINTPKQSLSARRGLKLPPGGMSLKMPTKTAQ  240
+            NPNRRAPRRPLSTQHPTRPNVAPHKAPAIINTPKQSLSARRGLKLPPGGMSLKMPTKTAQ
+Sbjct  181  NPNRRAPRRPLSTQHPTRPNVAPHKAPAIINTPKQSLSARRGLKLPPGGMSLKMPTKTAQ  240
+
+Query  241  QPQQFAPSPSNKKHIETLSNSKVVEGKRSNPGSLINGVQSTSTSSSTEGPHDTVGTTPRT  300
+            QPQQFAPSPSNKKHIETLSNSKVVEGKRSNPGSLINGVQSTSTSSSTEGPHDTVGTTPRT
+Sbjct  241  QPQQFAPSPSNKKHIETLSNSKVVEGKRSNPGSLINGVQSTSTSSSTEGPHDTVGTTPRT  300
+
+Query  301  GNSNNSSNSGSSGGGGLFANFSKYVDIKSGSLNFAGKLSLSSKGIDFSNGSSSRITLDEL  360
+            GNSNNSSNSGSSGGGGLFANFSKYVDIKSGSLNFAGKLSLSSKGIDFSNGSSSRITLDEL
+Sbjct  301  GNSNNSSNSGSSGGGGLFANFSKYVDIKSGSLNFAGKLSLSSKGIDFSNGSSSRITLDEL  360
+
+Query  361  EFLDELGHGNYGNVSKVLHKPTNVIMATKEVRLELDEAKFRQILMELEVLHKCNSPYIVD  420
+            EFLDELGHGNYGNVSKVLHKPTNVIMATKEVRLELDEAKFRQILMELEVLHKCNSPYIVD
+Sbjct  361  EFLDELGHGNYGNVSKVLHKPTNVIMATKEVRLELDEAKFRQILMELEVLHKCNSPYIVD  420
+
+Query  421  FYGAFFIEGAVYMCMEYMDGGSLDKIYDESSEIGGIDEPQLAFIANAVIHGLKELKEQHN  480
+            FYGAFFIEGAVYMCMEYMDGGSLDKIYDESSEIGGIDEPQLAFIANAVIHGLKELKEQHN
+Sbjct  421  FYGAFFIEGAVYMCMEYMDGGSLDKIYDESSEIGGIDEPQLAFIANAVIHGLKELKEQHN  480
+
+Query  481  IIHRDVKPTNILCSANQGTVKLCDFGVSGNLVASLAKTNIGCQSYMAPERIKSLNPDRAT  540
+            IIHRDVKPTNILCSANQGTVKLCDFGVSGNLVASLAKTNIGCQSYMAPERIKSLNPDRAT
+Sbjct  481  IIHRDVKPTNILCSANQGTVKLCDFGVSGNLVASLAKTNIGCQSYMAPERIKSLNPDRAT  540
+
+Query  541  YTVQSDIWSLGLSILEMALGRYPYPPETYDNIFSQLSAIVDGPPPRLPSDKFSSDAQDFV  600
+            YTVQSDIWSLGLSILEMALGRYPYPPETYDNIFSQLSAIVDGPPPRLPSDKFSSDAQDFV
+Sbjct  541  YTVQSDIWSLGLSILEMALGRYPYPPETYDNIFSQLSAIVDGPPPRLPSDKFSSDAQDFV  600
+
+Query  601  SLCLQKIPERRPTYAALTEHPWLVKYRNQDVHMSEYITERLERRNKILRERGENGLSKNV  660
+            SLCLQKIPERRPTYAALTEHPWLVKYRNQDVHMSEYITERLERRNKILRERGENGLSKNV
+Sbjct  601  SLCLQKIPERRPTYAALTEHPWLVKYRNQDVHMSEYITERLERRNKILRERGENGLSKNV  660
+
+Query  661  PALHMGGL  668
+            PALHMGGL
+Sbjct  661  PALHMGGL  668
