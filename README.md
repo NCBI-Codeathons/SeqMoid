@@ -16,7 +16,7 @@ SeqMo_ID works on the hypothesis that a high degree of conservation of consensus
 
 ## Workflow
 
-![alt text](https://github.com/NCBI-Codeathons/protein-motif-identification/blob/master/workflow.png/workflow.png "Workflow Schematic")
+![alt text](https://github.com/NCBI-Codeathons/protein-motif-identification/blob/master/workflow.png "Workflow Schematic")
 
 ## Future directions
 
