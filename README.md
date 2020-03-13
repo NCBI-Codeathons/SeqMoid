@@ -1,6 +1,7 @@
 # SeqMo-ID: A pipeline for conserved protein sequence motif identification
 
 ## About SeqMo_ID
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NCBI-Codeathons/protein-motif-identification/master)
 
 ### What is a conserved protein sequence motif?
 
