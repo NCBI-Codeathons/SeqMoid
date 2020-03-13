@@ -18,6 +18,18 @@ SeqMo_ID works on the hypothesis that a high degree of conservation of consensus
 
 ![alt text](https://github.com/NCBI-Codeathons/protein-motif-identification/blob/master/workflow.png "Workflow Schematic")
 
+## Getting data
+Input: accession numbers, protein names
+- ftp to download .faa files
+- seqkit to filter
+Output: filtered protein out.faa file
+
+## Defining concensus sites
+
+## Analysis
+
+## Visualization of alignments
+
 ## Future directions
 
 TBD
