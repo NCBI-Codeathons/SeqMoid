@@ -21,8 +21,9 @@ SeqMo_ID works on the hypothesis that a high degree of conservation of consensus
 ## Getting data
 Input: accession numbers, protein names
 - ftp to download .faa files
-- seqkit to filter
-Output: filtered protein out.faa file
+- `seqkit` to filter
+
+Output: filtered protein `out.faa` file
 
 ## Defining concensus sites
 
