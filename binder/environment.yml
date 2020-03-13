@@ -9,9 +9,10 @@ dependencies:
   - pandas
   - matplotlib>=2.1.1
   - seaborn
-  - statsmodels
+  #- statsmodels
   - biopython
   - regex
+  - seqkit
   - blast>=2.7.1
   - perl=5.22.0.1
   - perl-carp=1.38
