@@ -4,4 +4,4 @@ FILES=../protein_ncbi_data/*.faa.gz
 for f in $FILES;
 do
         zcat $f | seqkit grep -i -r -n -p $1[p]*
-done > Ste50_out.faa
+
