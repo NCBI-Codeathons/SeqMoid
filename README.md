@@ -44,7 +44,9 @@ Visualization tools provide rapid summarizations of our data and allow a visual 
 
 ## Future directions
 
-TBD
+* Integrate steps that are currently seperate: Getting data, Defining consensus sites + analysis, and visualization 
+* Improve automation of analysis tables
+* Allow the algorithm to handle "wildcard" positions that can take any amino acid or a specified list of amino acids 
 
 ## Dependencies
 
