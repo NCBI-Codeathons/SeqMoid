@@ -28,6 +28,8 @@ Output: filtered protein `out.faa` file
 
 ### Defining concensus sites
 
+![alt text](https://github.com/NCBI-Codeathons/protein-motif-identification/blob/master/Protein Motif Conservation Algorithm.png "Protein Motif Conservation Algorithm")
+
 ### Analysis
 
 Using the output from the algorithms that define consensus sites, SeqMo-ID generates tables for each protein of interest that include the GeneID and Strain ID from the gene annotation (directly from `out.faa`) as well as each gene has the each location motif conserved with the reference sequence. The last column include the number of times the motif occurs in the sequence but is not conserved with the reference sequence. 
@@ -35,6 +37,8 @@ Using the output from the algorithms that define consensus sites, SeqMo-ID gener
 ![alt text](https://github.com/NCBI-Codeathons/protein-motif-identification/blob/master/sample_table.png "Sample Table")
 
 ### Visualization of alignments
+
+Visualization tools provide rapid summarizations of our data and allow a visual complement to the analytical search and categorize tools developed in SeqMo-ID.  We make use of the R-based msaR tool.
 
 ## Future directions
 
