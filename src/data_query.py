@@ -1,19 +1,27 @@
 #!/usr/bin/env python
 
 import os
+import glob
 # import sys
-def download_data(accession):
-    os.system('curl -o ./protein_data_ncbi/{}.faa.gz https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/146/045/GCA_000146045.2_R64/GCA_000146045.2_R64_protein.faa.gz'.format(accession))
+def download_ftp_data(ftps):
+    for ftp in ftps:
+        accession = ftp.split('/')[-1]
+        os.system('curl -o ./protein_data_ncbi/{} {}'.format(accession, ftp))
 
-def get_protein_data(protein):
-    os.system('bash ./src/filter_proteins.sh {}'.format(protein))
 
-def download_multiple_datasets(accession_nums, proteins):
-    for accs in accession_nums:
-        accs = parse_accessions(accs)
-        # download_data()
-        print(accs)
-    return
+
+def get_protein_data(proteins):
+    for protein in proteins:
+        os.system('bash ./src/filter_proteins.sh {}'.format(protein))
+
+def get_filtered_data(data, proteins):
+    if data[0] == 'downloaded':
+        get_protein_data(proteins)
+    elif data[0] == 'ftp':
+        download_ftp_data(data[1])
+        get_protein_data(proteins)
+    else:
+        print("Data not in the correct folder")
 
 def get_idxs(data, protein):
     return [idx for idx, j in enumerate(data.get_headers()) if protein.lower() in j.lower()]
